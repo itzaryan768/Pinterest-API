@@ -1,0 +1,35 @@
+{
+  "name": "Pinterest-API",
+  "version": "1.0.0",
+  "description": "A Node.js application using Express to fetch data from the Pinterest API.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "pinterest",
+    "api",
+    "axios"
+  ],
+  "author": "ArYAN",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itzaryan768/Pinterest-API"
+  },
+  "bugs": {
+    "url": "https://github.com/itzaryan768/Pinterest-API/issues"
+  },
+  "homepage": "https://github.com/itzaryan768/Pinterest-API",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
